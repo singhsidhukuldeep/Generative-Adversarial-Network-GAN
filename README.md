@@ -6,6 +6,7 @@ A generative adversarial network (GAN) is a type of construct in neural network 
 
 The basic idea behind GANs is actually very simple. At its core, a GAN includes two agents with competing objectives that work through opposing goals. This relatively simple setup results in both of the agent's coming up with increasingly complex ways to deceive each other. This kind of situation can be modeled in Game Theory as a minimax game.
 
+![Progress Gif](https://github.com/singhsidhukuldeep/Generative-Adversarial-Network-GAN/blob/master/Keras/progress.gif)
 
 ## CREDITS
 
