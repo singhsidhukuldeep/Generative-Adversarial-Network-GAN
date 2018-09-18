@@ -8,6 +8,10 @@ The basic idea behind GANs is actually very simple. At its core, a GAN includes 
 
 ![Progress Gif](https://github.com/singhsidhukuldeep/Generative-Adversarial-Network-GAN/blob/master/Keras/progress.gif)
 
+[The Paper](https://arxiv.org/pdf/1406.2661.pdf)
+
+### Blog Post: [http://kuldeepsinghsidhu.blogspot.com](http://kuldeepsinghsidhu.blogspot.com)
+
 ## CREDITS
 
 >Kuldeep Singh Sidhu
